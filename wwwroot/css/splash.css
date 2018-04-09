@@ -1,0 +1,94 @@
+/*
+
+
+
+.sized {
+  height: auto;
+  width: 90%;
+  border: 3px solid rgba(0, 0, 0, 0.6);
+  margin-left: 20px;
+  margin-top: 20px;
+}
+/*rgb(31, 127, 175)
+
+
+
+
+
+
+.float {
+  float: left;
+}
+
+i.nope {
+  margin: 5px;
+  margin-right: 20px;
+}
+
+.jumbotron {
+  background-color: rgba(219, 212, 13, 0.4);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+p.shifty {
+  margin-left: 115px;
+}*/
+
+body {
+  padding: 300px;
+  background-image: url("../images/pokemon/zygardeb2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+  .override {
+    margin-right: 10px;
+    font-size: 24px;
+    font-family: 'Pathway Gothic One', cursive;
+  }
+
+  .alt-colour {
+    background-color: rgb(0,47,6);
+    border: 2px solid rgb(0,47,6);
+  }
+
+  .nav.navbar-nav li a {
+    color: rgb(31,234,0);
+    font-size: 24px;
+    font-family: 'Pathway Gothic One', cursive;
+  }
+
+  .fixit {
+    width: 1000px;
+    margin-top: 100px;
+    /*background-color: blue;
+    border: 2px dashed red;*/
+  }
+
+.center {
+  text-align: center;
+  font-family: 'Special Elite', cursive;
+  color: rgb(0,47,6);
+  font-size: 5em;
+  font-weight: bold;
+}
+
+#splash {
+  font-size: 26px;
+}
+
+p {
+  text-align: center;
+  font-family: 'Pathway Gothic One', cursive;
+  color: rgb(0,47,6);
+}
+
+hr {
+  border: 1px solid rgb(0,47,6);
+}
+
+.btn-success {
+  background-color: rgb(0,47,6);
+}

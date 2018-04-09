@@ -1,0 +1,53 @@
+.override {
+  margin-right: 10px;
+  font-size: 24px;
+  font-family: 'Pathway Gothic One', cursive;
+}
+
+.x {
+  background-color: pink;
+  border: 2px dashed red;
+}
+
+.sized {
+  height: auto;
+  width: 90%;
+  border: 3px solid rgba(0, 0, 0, 0.6);
+  margin-left: 20px;
+  margin-top: 20px;
+}
+/*rgb(31, 127, 175)*/
+body {
+  padding-top: 70px;
+  font-family: 'Pathway Gothic One', cursive;
+}
+
+.alt-colour {
+  background-color: rgb(31, 127, 175);
+  border: 2px solid rgb(31, 127, 175);
+}
+
+.nav.navbar-nav li a {
+  color: rgb(232, 227, 174);
+  font-size: 24px;
+  font-family: 'Pathway Gothic One', cursive;
+}
+
+.float {
+  float: left;
+}
+
+i.nope {
+  margin: 5px;
+  margin-right: 20px;
+}
+
+.jumbotron {
+  background-color: rgba(219, 212, 13, 0.4);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+p.shifty {
+  margin-left: 115px;
+}
